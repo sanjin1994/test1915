@@ -17,4 +17,6 @@ public class Person {
     private String master;
 
     private String sth;
+
+    private String fu;
 }
