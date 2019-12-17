@@ -14,5 +14,9 @@ public class Person {
 
     private String addr;
 
-    private string master;
+    private String master;
+
+    private String sth;
+
+    private String fu;
 }
